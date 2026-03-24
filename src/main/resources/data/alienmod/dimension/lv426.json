@@ -1,0 +1,12 @@
+{
+  "type": "alienmod:lv426_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 12345,
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
+    }
+  }
+}

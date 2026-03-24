@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "alienmod:block/bismuth_slab"
+    },
+    "type=double": {
+      "model": "alienmod:block/bj_block"
+    },
+    "type=top": {
+      "model": "alienmod:block/bismuth_slab_top"
+    }
+  }
+}

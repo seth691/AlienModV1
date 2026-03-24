@@ -1,0 +1,34 @@
+{
+  "item.alienmod.bismuth": "Bismuth",
+  "item.alienmod.raw_bismuth": "Raw Bismuth",
+  "item.alienmod.chisel": "Chisel",
+  "item.alienmod.boom_staff": "Boom Boom staff",
+
+  "item.alienmod.bismuth_sword": "Bismuth Sword",
+  "item.alienmod.bismuth_pickaxe": "Bismuth Pickaxe",
+  "item.alienmod.orialmodbismuth_shovel": "Bismuth Shovel",
+  "item.alienmod.bismuth_axe": "Bismuth Axe",
+  "item.alienmod.bismuth_hoe": "Bismuth Hoe",
+  "item.alienmod.bismuth_hammer": "Bimsuth Hammer",
+
+  "block.alienmod.bj_block": "BJ Block ;)",
+  "block.alienmod.magic_block": "Magic Block",
+  "block.alienmod.bismuth_lamp": "Bismuth Lamp",
+
+  "block.alienmod.bismuth_fence": "Bismuth Fence",
+  "block.alienmod.bismuth_fence_gate": "Bismuth Fence Gate",
+  "block.alienmod.bismuth_wall": "Bismuth Wall",
+  "block.alienmod.bismuth_door": "Bismuth Door",
+  "block.alienmod.bismuth_trapdoor": "Bismuth Trapdoor",
+  "block.alienmod.bismuth_pressure_plate": "Bismuth Pressure Plate",
+  "block.alienmod.bismuth_slabs": "Bismuth Slabs",
+  "block.alienmod.bismuth_stairs": "Bismuth Stairs",
+  "block.alienmod.bismuth_button": "Bismuth Button",
+
+
+  "creativetab.alienmod.bismuth_items": "Bismuth Items",
+  "creativetab.alienmod.bismuth_blocks": "Bismuth Blocks",
+
+  "tooltip.alienmod.chisel.shift_down": "This Item can chisel Blocks into Bricks",
+  "tooltip.alienmod.chisel": "Press §eShift§r for more Information"
+}
